@@ -1,6 +1,6 @@
 body{
-    background-color: #009788;
-    font-family: "Raleway", sans-serif;
+    background-color: black;
+    font-family: fantasy;
     text-align: center;
 }
 
@@ -8,7 +8,7 @@ body{
     width: 100%;
 }
 p{
-    color: white;
+    color: yellow;
     font-size: 10vw;
 }
 
@@ -33,6 +33,7 @@ p{
     width: 5rem;
     height: 5rem;
     font-size: 1rem;
+    color: #989494;
 }
 
 .button1{
@@ -55,4 +56,5 @@ p{
     appearance: none;
     font-size: 1rem;
     text-align: center;
+    color: #989494;
 }
